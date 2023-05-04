@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Nate and I am a new software developer.
 
 <!--
 **NSmith1211/NSmith1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
